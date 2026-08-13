@@ -14,10 +14,10 @@ I build companies - and the systems that run them. Founder & CEO of **[Naqsh Hol
 - **[Shace](https://shace.co/en)** (شيس) - discover and book workspaces
 - **[Deets](https://deets.pro)** (ديتس)
 - **[6 Degrees](https://6degrees.com.sa)** (الدرجات الست لتقنية المعلومات) - information technology
-- **[Efficiency Center](https://efficiencys.com.sa)** (مركز الكفاءة)
+- **[Efficiency Center](https://efficiencys.com.sa)** (مركز الكفاءة) - business incubators, accelerators, and co-working spaces
 - **[Promotion Efficiency](https://promoe.com.sa)** (بروموشن إفيشنسي) - advertising
-- **[Washim](https://washim.co)** (وشم)
-- **[Zahma O La](https://www.zahmaola.com)** (زحمة ولا)
+- **[Washim](https://washim.co)** (وشم) - a Saudi fashion platform empowering designers with a universal sizing standard
+- **[Zahma O La](https://www.zahmaola.com)** (زحمة ولا) - a busy-or-not crowd status platform
 
 ## Digital Projects
 
